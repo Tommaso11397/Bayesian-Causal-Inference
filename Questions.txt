@@ -1,0 +1,2 @@
+1. In Balance Checks we usually compare means, shouldn't we compare distributions? 
+2. The Variance estimator of the regression coefficient is different from the Neymann estimator(s) of the variance of the finite sample ATE in Imbens and Rubin, why do we use the former?
