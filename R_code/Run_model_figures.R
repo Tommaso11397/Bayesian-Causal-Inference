@@ -52,7 +52,7 @@ Trial <- stan(file = "Cholensky Decomposition.stan",
                 cores = 8)
 
 #csvfiles <- c("mysimulation_1.csv", "mysimulation_2.csv", "mysimulation_3.csv",
-              "mysimulation_4.csv")
+              # "mysimulation_4.csv")
 #Trial <- read_stan_csv(csvfiles)
 
 # fit_mod_joint <- sflist2stanfit(fit_mod1, fit_mod2)
